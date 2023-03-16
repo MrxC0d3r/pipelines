@@ -11,7 +11,7 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://MrxC0d3r@github.com/MrxC0d3r/pipelines.git"
